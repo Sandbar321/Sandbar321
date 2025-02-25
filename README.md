@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sandbar321
-- 👀 I’m interested in embedded systems
+- 👀 I’m interested in RF/Antennas
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tannerbaskey@gmail.com or at 619-797-0049
 
 <!---

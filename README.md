@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandbar321
-- 👀 I’m interested in RF/Antennas
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: tannerbaskey@gmail.com or at 619-797-0049
+- 👀 I’m interested in DevOps 
+- 🌱 I’m currently learning Python and Go
+- 📫 How to reach me: tannerbaskey@gmail.com
 
 <!---
 Sandbar321/Sandbar321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
